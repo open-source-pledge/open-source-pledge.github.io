@@ -121,8 +121,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: news # blog_name will be displayed in your blog page
-blog_nav_title: news # your blog must have a title for it to be displayed in the nav bar
+blog_name: info # blog_name will be displayed in your blog page
+blog_nav_title: info # your blog must have a title for it to be displayed in the nav bar
 blog_description: news about this initiative
 permalink: /blog/:year/:title/
 

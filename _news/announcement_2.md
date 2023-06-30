@@ -1,32 +1,31 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: June 15, first meeting of the committee
+date: 2023-06-15
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The committee met for the first time to learn the background of the initiative, review the scope and timeline, and to begin sharing perspectives and ideas. The primary topics were:
+ * what is the goal of the pledge
+ * what is the incentive for academic units to make the pledge
+ * what are examples of commitments that would be impactful to the open source community
+ * how do we think about accountability
+ * how do we ensure that the pledge is not exclusionary
+ * how will we collect feedback and iterate / evolve from the initial approach
+ * how does this initiative interact with other related efforts in this space
+ 
+ We also reviewed an initial list of potential activities that organizations might make as commitments, which was developed in collaboration with Arliss Collins, NumFOCUS's developer advocate.
 
-***
+Present:
+ * [Kyle Cranmer](https://datascience.wisc.edu/kyle-cranmer/), University of Wisconsin--Madison (Chair)
+ * [Thorna Humphries](https://www.nsu.edu/Academics/Faculty-and-Academic-Divisions/Schools-and-Colleges/College-of-Science-Engineering-and-Technology/Departments/Computer-Science/Faculty-and-Staff/Thorna-Humphries), Norfolk State University
+ * [Sean Goggins](https://www.seangoggins.net), University of Missouri
+ * [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/dev/),  UC Santa Cruz
+ * [Micaela Parker](https://academicdatascience.org/data-science/about/), Academic Data Science Alliance (ex-officio)
+ * [Steve Van Tuyl](https://academicdatascience.org/data-science/about/), Academic Data Science Alliance (ex-officio)
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Absent:
+ * [Laura Dabbish](https://hcii.cmu.edu/people/laura-dabbish), Carnegie Mellon University
+ * [Arliss Collins](https://numfocus.org/blog/numfocus-hires-open-source-developer-advocate), NumFOCUS developer advocate (ex-officio)
+ 

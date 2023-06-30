@@ -30,7 +30,7 @@ Here is a list of example of a commitments.
 
 # Example contributions to Open Source (Optional) 
 
-This is generated automatically from the data in the `uw-madison-repositories.yml` file in the [`_data` directory](https://github.com/cranmer/open-source-pledge/tree/master/_data).
+It's not clear we want to do any or all of this, but let's try exercising the functionality of the `al-folio` theme. This is generated automatically from the data in the `uw-madison-repositories.yml` file in the [`_data` directory](https://github.com/cranmer/open-source-pledge/tree/master/_data).
 
 ## GitHub users
 
