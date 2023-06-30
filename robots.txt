@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://theoryandpractice.org/open-source-pledge/open-source-pledge/sitemap.xml
