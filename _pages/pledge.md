@@ -15,3 +15,11 @@ Options:
     * more detailed instructions to follow
   * fill out a form
   * contact us via email
+
+  Once you've made a pledge, proudly display the badge   [![Static Badge](https://img.shields.io/badge/open_source-pledge-darkturquoise)](https://open-source-pledge.github.io)
+ on your website with a link to your commitment. Here's the code in Markdown:
+
+
+```
+ [![Static Badge](https://img.shields.io/badge/open_source-pledge-darkturquoise)](https://open-source-pledge.github.io)
+ ```
