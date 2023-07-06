@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Lightning talk at SciPy 2023
+Lightning talk at SciPy 2023 :zap:
  
