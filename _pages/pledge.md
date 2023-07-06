@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /pledge/
 title: make a pledge
 description: Instructions on how to register a pledge
 nav: true
