@@ -11,7 +11,7 @@ horizontal: false
 
 This is a work in progress. The cards below are examples of what a pledge might look like. 
 The registry should serve as a tool for discovery that helps the open source community identify resources that may be available to them. 
-The organizational principle of the registry is under discussion. You are encouraged to provide <a href="open-source-pledge/feedback/">feedback</a>.
+The organizational principle of the registry is under discussion. You are encouraged to provide <a href="/feedback/">feedback</a>.
 
 <!-- pages/projects.md -->
 <div class="projects">
