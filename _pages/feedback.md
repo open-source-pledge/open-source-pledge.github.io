@@ -9,6 +9,6 @@ nav_order: 4
 
 ## Contribute feedback
 
-[Submit an issue](https://github.com/cranmer/open-source-pledge/issues) 
+[Submit an issue](https://github.com/open-source-pledge/open-source-pledge.github.io/issues) 
 
-[GitHub Discussions](https://github.com/cranmer/open-source-pledge/discussions/)
+[GitHub Discussions](https://github.com/open-source-pledge/open-source-pledge.github.io/discussions/)

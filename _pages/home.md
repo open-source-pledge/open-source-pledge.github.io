@@ -17,7 +17,6 @@ Scientific software is a fundamental component of modern research and engineerin
 The <a href="https://academicdatascience.org">Academic Data Science Alliance (ADSA)</a>, in partnership with <a href="https://numfocus.org" NumFOCUS</a>, has <a href="/blog/2023/announcement_1/">convened an Open Source Software Pledge committee</a> to develop a strategy for organizing coherent, deliberate, and impactful commitments to open source from the academic community. This website aims to be mechanism to collect commitments to open source from academic organizations.  See the [about](/blog/) page for more information.
 
 
-
 <div class="container">
   <div class="row">
      <div class="col-6 ">
@@ -29,3 +28,4 @@ The <a href="https://academicdatascience.org">Academic Data Science Alliance (AD
   </div>
 </div>
 
+<br />
