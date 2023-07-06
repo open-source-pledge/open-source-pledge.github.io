@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://open-source-pledge.github.io//sitemap.xml
+Sitemap: https://open-source-pledge.github.io/sitemap.xml
