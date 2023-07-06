@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://theoryandpractice.org/open-source-pledge/open-source-pledge/sitemap.xml
+Sitemap: https://open-source-pledge.github.io//sitemap.xml
