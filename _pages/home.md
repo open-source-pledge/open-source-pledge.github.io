@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 Scientific software is a fundamental component of modern research and engineering. Open source software, in particular, provides significant benefits for academic institutions’ research and educational programs. It is natural for academic institutions to support open source software and be an integral part of that community. 
 
 
-The [Academic Data Science Alliance (ADSA)](https://academicdatascience.org), in partnership with [NumFOCUS](https://numfocus.org), has [convened an Open Source Software Pledge committee](/blog/2023/announcement_1/) to develop a strategy for organizing coherent, deliberate, and impactful commitments to open source from the academic community. This website aims to be mechanism to collect commitments to open source from academic organizations.  See the [about](/blog/) page for more information.
+The [Academic Data Science Alliance (ADSA)](https://academicdatascience.org), in partnership with [NumFOCUS](https://numfocus.org), has [convened an Open Source Software Pledge committee](/blog/2023/announcement_1/) to develop a strategy for organizing coherent, deliberate, and impactful commitments to open source from the academic community. This website aims to be a mechanism to collect commitments to open source from academic organizations.  See the [about](/blog/) page for more information.
 
 
 
