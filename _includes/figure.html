@@ -14,7 +14,7 @@
     {% endif %}
 
     <!-- Fallback to the original file -->
-    <a href="{{ include.url }}">
+    {% if include.url %}<a href="{{ include.url }}">{% endif %}
     <img 
       src="{{ include.path | relative_url }}"
       {% if include.class %}class="{{ include.class }}"{% endif %}  
@@ -29,7 +29,7 @@
       {% if include.zoomable %}data-zoomable{% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
-    </a>
+    {% if include.url %}</a>{% endif %}
 
   </picture>
 
